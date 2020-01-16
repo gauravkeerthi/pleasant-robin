@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: WHAT IS THIS
 date: '2019-03-30'
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
